@@ -1,9 +1,9 @@
 {
-	"title": "Do You Have Any Questions?<br/> Don't Hesitate to Contact Us!",
+	"title": "ご質問はありますか？<br/> お気軽にお問い合わせください！",
 	"copyright": "© 2024 Your Company",
 	"buttons": [
 		{
-			"text": "Contact Us",
+			"text": "お問い合わせ",
 			"url": "/contact"
 		}
 	]
